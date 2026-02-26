@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Cry For Me",
+  "base_artist": "Michita",
+  "createdAt": "2026-02-26T15:13:08.758748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "미소를 띄우며 나를 보낸 그 모습처럼 (Don't Cry For Me)",
+      "artist": "루나",
+      "has_synced": true,
+      "path": "select/01_미소를_띄우며_나를_보낸_그_모습처럼_(Don't_Cry_For_Me)_루나.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "미소를 띄우며 나를 보낸 그 모습처럼 (Don't Cry For Me)",
+      "artist": "LUNA",
+      "has_synced": true,
+      "path": "select/02_미소를_띄우며_나를_보낸_그_모습처럼_(Don't_Cry_For_Me)_LUNA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Cry For Me Argentina",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/03_Don't_Cry_For_Me_Argentina_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Cry for Me Argentina",
+      "artist": "Sinéad O’Connor",
+      "has_synced": true,
+      "path": "select/04_Don't_Cry_for_Me_Argentina_Sinéad_O’Connor.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Woman Don't You Cry for Me",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/05_Woman_Don't_You_Cry_for_Me_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Woman Don't You Cry for Me (Early Take)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/06_Woman_Don't_You_Cry_for_Me_(Early_Take)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cry For Me",
+      "artist": "Paula Abdul",
+      "has_synced": true,
+      "path": "select/07_Cry_For_Me_Paula_Abdul.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cry For Me",
+      "artist": "Roachford",
+      "has_synced": false,
+      "path": "select/08_Cry_For_Me_Roachford.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dont Cry For Me Argentina",
+      "artist": "Olivia Newton-John",
+      "has_synced": true,
+      "path": "select/09_Dont_Cry_For_Me_Argentina_Olivia_Newton-John.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Cry for Me Argentina - Remastered",
+      "artist": "The Carpenters",
+      "has_synced": false,
+      "path": "select/10_Don't_Cry_for_Me_Argentina_-_Remastered_The_Carpenters.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Woman Don't You Cry For Me (Session Outtakes And Jams / Take 5)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/11_Woman_Don't_You_Cry_For_Me_(Session_Outtakes_And_Jams___Take_5)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Woman Don’t You Cry for Me (session outtakes and jams ⁄ take 5)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/12_Woman_Don’t_You_Cry_for_Me_(session_outtakes_and_jams_⁄_take_5)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cry For Me Sky (Eulogy Of The Scorned)",
+      "artist": "DevilDriver",
+      "has_synced": true,
+      "path": "select/13_Cry_For_Me_Sky_(Eulogy_Of_The_Scorned)_DevilDriver.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cry For Me Sky (Eulogy of the",
+      "artist": "DevilDriver",
+      "has_synced": true,
+      "path": "select/14_Cry_For_Me_Sky_(Eulogy_of_the_DevilDriver.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cry for Me Sky (Eulogy of the Scorned)",
+      "artist": "DevilDriver",
+      "has_synced": false,
+      "path": "select/15_Cry_for_Me_Sky_(Eulogy_of_the_Scorned)_DevilDriver.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Cry for Me",
+      "artist": "TINI",
+      "has_synced": true,
+      "path": "select/16_Don't_Cry_for_Me_TINI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Cry For Me Argentina",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/17_Don't_Cry_For_Me_Argentina_Madonna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cry For Me",
+      "artist": "Michita, 愛海",
+      "has_synced": false,
+      "path": "select/pl_01_Cry_For_Me_Michita,_愛海.txt"
+    }
+  ]
+}
